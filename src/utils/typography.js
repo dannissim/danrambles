@@ -5,6 +5,9 @@ Wordpress2016.overrideThemeStyles = () => ({
   'a.gatsby-resp-image-link': {
     boxShadow: 'none',
   },
+  'html': {
+    backgroundColor: '#f9fafc',
+  },
 })
 
 delete Wordpress2016.googleFonts
